@@ -830,21 +830,5 @@
       "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/violet.png",
       "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/black.png"
     ]
-  },
-  {
-    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
-    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
-    "price": "$80.00",
-    "favorite": false,
-    "colors": [
-      "#3F28BC",
-      "#309F85",
-      "#F1F1F1"
-    ],
-    "images": [
-      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/blue.png",
-      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/green.png",
-      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/white.png"
-    ]
   }
 ]
