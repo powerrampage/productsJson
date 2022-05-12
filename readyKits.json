@@ -1,1 +1,290 @@
-a
+[
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$80.00",
+    "favorite": false,
+    "colors": [
+      "#524983",
+      "#309F85",
+      "#F1F1F1"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$56.43",
+    "favorite": true,
+    "colors": [
+      "#F1F1F1",
+      "#9ED1E1",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$69.21",
+    "favorite": false,
+    "colors": [
+      "#309F85",
+      "#9ED1E1",
+      "#3F28BC"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$94.05",
+    "favorite": false,
+    "colors": [
+      "#EEAB5D",
+      "#9787EA",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$80.00",
+    "favorite": false,
+    "colors": [
+      "#524983",
+      "#309F85",
+      "#F1F1F1"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$56.43",
+    "favorite": true,
+    "colors": [
+      "#F1F1F1",
+      "#9ED1E1",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$69.21",
+    "favorite": false,
+    "colors": [
+      "#309F85",
+      "#9ED1E1",
+      "#3F28BC"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$94.05",
+    "favorite": false,
+    "colors": [
+      "#EEAB5D",
+      "#9787EA",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$80.00",
+    "favorite": false,
+    "colors": [
+      "#524983",
+      "#309F85",
+      "#F1F1F1"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$56.43",
+    "favorite": true,
+    "colors": [
+      "#F1F1F1",
+      "#9ED1E1",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$69.21",
+    "favorite": false,
+    "colors": [
+      "#309F85",
+      "#9ED1E1",
+      "#3F28BC"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$76.43",
+    "favorite": false,
+    "colors": [
+      "#524983",
+      "#309F85",
+      "#F1F1F1"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/purple.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/green.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/white.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$56.43",
+    "favorite": true,
+    "colors": [
+      "#F1F1F1",
+      "#9ED1E1",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/white.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/cyan.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/black.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$94.05",
+    "favorite": false,
+    "colors": [
+      "#EEAB5D",
+      "#9787EA",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$80.00",
+    "favorite": false,
+    "colors": [
+      "#524983",
+      "#309F85",
+      "#F1F1F1"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$56.43",
+    "favorite": true,
+    "colors": [
+      "#F1F1F1",
+      "#9ED1E1",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$69.21",
+    "favorite": false,
+    "colors": [
+      "#309F85",
+      "#9ED1E1",
+      "#3F28BC"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/03.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png"
+    ]
+  },
+  {
+    "title": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "text": "EL003 Elleven Checkpoint-Friendly Compu-Backpack",
+    "price": "$94.05",
+    "favorite": false,
+    "colors": [
+      "#EEAB5D",
+      "#9787EA",
+      "#2A292F"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/04.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/01.png",
+      "https://raw.githubusercontent.com/powerrampage/productsJson/main/images/02.png"
+    ]
+  }
+]
